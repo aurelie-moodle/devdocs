@@ -13,7 +13,7 @@ Developer meetings are open to anyone interested in Moodle development.
 
 :::important
 
-The date of our next Developer meeting is yet to be confirmed.
+Our next Developer meeting will be on 13th December.
 
 If there is any topic that you would like to present or discuss at a developer meeting, please contact [Aurelie Soulier](https://moodle.org/user/profile.php?id=5177207).
 
